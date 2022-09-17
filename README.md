@@ -1,6 +1,6 @@
 ## PROJETO REDES SOCIAIS
 
-![fundo-madeira](../imagens/social.png)
+![fundo-madeira](./imagens/social.png)
 > Estudonauta
 
 [Clique aqui para acessar](https://barracadobeto.github.io/Projeto-Social/)
